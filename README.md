@@ -52,4 +52,4 @@
 见  [noise2fast](https://github.com/jason-lequyer/Noise2Fast)
 
 # 3、原论文
-见工程中文件 “ noise2fast.pdf ”
+见工程中文件 “ noise2fast.pdf ” 或 [原文](https://arxiv.org/pdf/2108.10209v1)
